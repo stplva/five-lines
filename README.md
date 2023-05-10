@@ -25,4 +25,3 @@ If you like this kata please consider giving the repo a star. You might also con
 If you have feedback or comments on this repo don't hesitate to write me a message or send me a pull request. 
 
 Thank you for checking it out.
-
