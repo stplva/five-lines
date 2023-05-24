@@ -168,4 +168,3 @@ window.addEventListener("keydown", e => {
   else if (e.key === RIGHT_KEY || e.key === "d") inputs.push(Input.RIGHT);
   else if (e.key === DOWN_KEY || e.key === "s") inputs.push(Input.DOWN);
 });
-
